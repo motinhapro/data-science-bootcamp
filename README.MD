@@ -26,6 +26,7 @@ Este é um bootcamp abrangente que cobre o stack completo para análise de dados
 Cada pasta ou arquivo (`.ipynb`) representa um módulo ou um projeto/exercício do curso.
 
 * **/Numpy-exercícios:** Soluções dos exercícios usando arrays com numpy ✅
+* **/Pandas-exercícios:** Soluções dos exercícios usando dataframes com pandas ✅
 
 ## 🛠️ Ferramentas Utilizadas
 
